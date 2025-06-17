@@ -53,7 +53,7 @@ I’m currently seeking new challenges where I can bring technical value, strate
 ![Hexagonal](https://img.shields.io/badge/Architecture-Hexagonal-lightgrey)
 ![MVC](https://img.shields.io/badge/Pattern-MVC-informational)
 ![Micro Frontends](https://img.shields.io/badge/Micro-Frontends-ff69b4)
-![TDD](https://img.shields.io/badge/Test%20Driven%20Development-TDD-orange)
+![TDD](https://img.shields.io/badge/TDD-Practice-orange)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-9cf)
 
 ---
